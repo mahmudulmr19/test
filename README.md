@@ -8,7 +8,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; Html | CSS | Bootstrap
+- 💻 &nbsp; Html | CSS | Bootstrap | Tailwindcss | Reactjs
 
 <br/>
 
