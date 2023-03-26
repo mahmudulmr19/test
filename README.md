@@ -3,12 +3,11 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; Html | CSS | Bootstrap | Tailwindcss | Reactjs
+- 💻 &nbsp; Html | CSS | JavaScript | Bootstrap | Tailwindcss | Reactjs
 
 <br/>
 
